@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '38124'
     url: http://www.gutenberg.org/2009/agents/38124
     wikipedia: https://en.wikipedia.org/wiki/Ada_Clendenin_Williamson
+covers:
+- cover_type: archival
+  image_path: 69854-h/images/cover.jpg
 creator:
   author:
     agent_name: Sawyer, Edith A. (Edith Augusta)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '43460'
     url: http://www.gutenberg.org/2009/agents/43460
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69854#The-Christmas-Makers-Club
 gutenberg_issued: '2023-01-21'
 identifiers:
   gutenberg: '69854'
